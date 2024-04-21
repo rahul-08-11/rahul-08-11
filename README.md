@@ -1,32 +1,25 @@
-<p align ="center"> <strong>Hi there!</strong> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="Alt Text" width="30"></p>
+### 👋 Hi there, I'm Rahul Kumar Gupta! 🚀
 
-<div align="center">
-<span align="center">Welcome to my page!</span><br>
-<span align="center">I am Rahul Kumar Gupta.</span><br>
-<span align="center">Currently learning Data analysis and Machine learning</span>
-</div>
+---
+- 👯 I’m looking to collaborate on various Open-Source Projects 🌐
+- 📫 How to reach me: **rahul.work.programming@gmail.com** 📧
+- ⚡ Field of Interest: Backend and Frontend Development and Data Science 💻📊
 
-## <span style="font-size:32px;">Let's Connect!</span>
-<a href="https://www.linkedin.com/in/rahul-kumar-gupta-914b5a244/">
-  <img height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/>
-</a><br><br>
+<h3>Tech Stack</h3>
 
-## <span style="font-size:32px;">Languages</span>
+   **Currently learning and improving:** 
+  <br>
+  - Languages: Python, JavaScript, C/C++, HTML/CSS 🐍🔧<br>
+  - Coding Environment: VS Code, Jupyter, and Linux Shell 💻🐧  
 
-  
-<div>
-  <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"/>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png"/>
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
-</div><br><br>
-  
-## <span style="font-size:32px;">ML/DS Tools</span>
-<div>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png"/>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png"/>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"/>
-  <img height="40" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667"/>
-    <img height="30" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/></div><br>
-    
-    
-![Snake animation](https://github.com/rahul-08-11/rahul-08-11/blob/output/github-contribution-grid-snake.svg)
+Buy me a coffee?☕️
+
+<a href="https://ko-fi.com/rahulkumargupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Send Coffee" width="150" ></a>
+
+<h3>My GitHub Contributions Summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahul-08-11&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Rahul GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-08-11&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+Let me know if you need anything else!
