@@ -5,10 +5,11 @@
 - 📫 How to reach me: **rahul.work.programming@gmail.com** 📧
 - ⚡ Field of Interest: Backend systems, cloud architecture, AI-driven automation  💻
 
-<h3>Tech Stack</h3>
-
-  <br> Python · FastAPI · REST APIs · Docker · Docker Compose · NGINX · Linux · AWS (EC2, S3) · Azure · Cloudflare · Terraform · SQL · LangChain · AutoGen · N8N · ETL Pipelines · Postman
-<br>
+**Tech Stack:**
+- Python · FastAPI · REST APIs
+- Docker · Docker Compose · NGINX · Linux
+- AWS (EC2, S3) · Azure · Cloudflare · Terraform
+- PostgreSQL· LangChain · AutoGen · N8N · ETL Pipelines · Postman
 
 Buy me a coffee?☕️
 
