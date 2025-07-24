@@ -1,16 +1,14 @@
 ### 👋 Hi there, I'm Rahul Kumar Gupta! 🚀
 
 ---
-- 👯 I’m looking to collaborate on various Open-Source Projects 🌐
+- 👯 I enjoy working on cloud-native backends, automation, and AI tools. If you're interested in collaborating, feel free to drop a line!
 - 📫 How to reach me: **rahul.work.programming@gmail.com** 📧
-- ⚡ Field of Interest: Backend and Frontend Development and Data Science 💻📊
+- ⚡ Field of Interest: Backend systems, cloud architecture, AI-driven automation  💻
 
 <h3>Tech Stack</h3>
 
-   **Currently learning and improving:** 
-  <br>
-  - Languages: Python, JavaScript, C/C++, HTML/CSS 🐍🔧<br>
-  - Coding Environment: VS Code, Jupyter, and Linux Shell 💻🐧  
+  <br> Python · FastAPI · REST APIs · Docker · Docker Compose · NGINX · Linux · AWS (EC2, S3) · Azure · Cloudflare · Terraform · SQL · LangChain · AutoGen · N8N · ETL Pipelines · Postman
+<br>
 
 Buy me a coffee?☕️
 
@@ -22,4 +20,4 @@ Buy me a coffee?☕️
 
 ![Rahul GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-08-11&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
-Let me know if you need anything else!
+
