@@ -9,7 +9,7 @@
 - Python · FastAPI · REST APIs
 - Docker · Docker Compose · NGINX · Linux
 - AWS (EC2, S3) · Azure · Cloudflare · Terraform
-- PostgreSQL· LangChain · AutoGen · N8N · ETL Pipelines · Postman
+- SQL/NOSQL
 
 Buy me a coffee?☕️
 
